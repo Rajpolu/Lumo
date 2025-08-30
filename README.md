@@ -26,7 +26,7 @@ A modern, web-based logo creation tool built with Next.js, React, and TypeScript
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/your-username/logo-creator.git
+git clone https://github.com/rajpolu/lumo.git
 
 # Navigate to project directory
 cd logo-creator
@@ -156,7 +156,7 @@ SOFTWARE.
 
 - 📧 Email: support@logocreator.dev
 - 💬 Discord: [Join our community](https://discord.gg/logocreator)
-- 🐛 Issues: [GitHub Issues](https://github.com/your-username/logo-creator/issues)
+- 🐛 Issues: [GitHub Issues](https://github.com/rajpolu/Lumo/issues)
 - 📖 Docs: [Documentation](https://docs.logocreator.dev)
 
 ## 🗺️ Roadmap
